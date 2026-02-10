@@ -93,7 +93,7 @@ mv not_here /tmp/right_school
 
 ---
 
-* ## **[5. Organization is key!](5-Organization_is_key)**
+* ## **[5. Organization is key!](5-organization_is_key)**
 
 Access your sandbox and:
 
@@ -111,7 +111,7 @@ mkdir school_is_amazing
 
 ---
 
-* ## **[6. No need](6-No_need)**
+* ## **[6. No need](6-no_need)**
 
 Access your sandbox and:
 
@@ -131,4 +131,5 @@ rmdir empty_directory
 
   ### By Anthony Goutieras
   Weekly project from 06/10/25 to 09/10/25 for Holberton School Bordeaux
+
 
